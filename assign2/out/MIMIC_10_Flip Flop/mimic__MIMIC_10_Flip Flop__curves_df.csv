@@ -1,0 +1,4 @@
+,FEvals,Fitness,Iteration,Keep Percent,Population Size,Time,max_iters,use_fast_mimic
+0,0.0,6.0,0,0.25,150,0.00022379500296665356,2048,False
+1,2.0,8.0,1,0.25,150,0.05385358900093706,2048,False
+2,4.0,9.0,2,0.25,150,0.10698212900024373,2048,False
